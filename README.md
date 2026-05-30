@@ -42,6 +42,9 @@ git clone https://github.com/dakshshrrma/Customer-Segmentation.git
 pip install pandas matplotlib numpy
 Then open `customer_segmentation.ipynb` and run all cells in order.
 
+Tools used : VS Code, Project tracked using JIRA
+<img width="1203" height="671" alt="Screenshot 2026-05-30 at 5 02 19 PM" src="https://github.com/user-attachments/assets/865ebf10-3f73-4a18-9f64-1b8e7af5964c" />
+
 
 👤 Author
 
